@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Oli, a fullstack dev currently obsessed with Svelte and weirdly, Go?
+
+- 🔭 I’m currently working on: a cool little budgeting app with a twist (hint: It's not AI!)
+-  🌱 I’m currently learning Go. :D
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: I once drove a car when I was 7 years old 👀
 <!--
 **OliCDev/olicdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
